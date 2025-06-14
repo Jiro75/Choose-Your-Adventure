@@ -40,7 +40,7 @@ Welcome to **Choose Your Adventure**, an interactive storytelling game built in 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/choose-your-adventure.git
+   git clone https://github.com/Jiro75/choose-your-adventure.git
    cd choose-your-adventure
    ```
 
